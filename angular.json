@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "cedula"
+    }
+  },
+  "defaultProject": "cedula",
+  "cli": {
+    "analytics": false
+  }
 }
